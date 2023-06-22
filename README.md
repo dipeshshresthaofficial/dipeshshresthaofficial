@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I am Dipesh Shrestha,
 
 <!--
-**dipeshshresthaofficial/dipeshshresthaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dipeshshresthaofficial/dipeshshresthaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on RLHF web application.
+- 🌱 I’m currently learning Spring Boot framework.
+- 👯 I’m looking to collaborate on developing innovative web or mobile applications.
+- 🤔 I’m looking for help with guidance on improving my skills as per industry standard.
+- 📫 How to reach me: dipeshshrestha0314@gmail.com
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##A brief description about myself:
+A dedicated and results-oriented software engineer with a passion for creating innovative solutions. With around 2 years of experience in software development, web and mobile application development, and databases, I have honed my skills in various technologies and frameworks such as JavaScript, React.js, Node.js, Express.js, Java, Spring Boot, MySQL, MongoDB, Microsoft Azure.
+
+During my career, I have had the opportunity to work on projects involving important concepts like object-oriented design patterns, asynchronous request handling, user authentication and authorization, global state management, REST APIs and optimized database queries. My experience includes collaborating closely with healthcare clients while working at Oracle Cerner, a leading Healthcare IT company, where I gained valuable insights into the US healthcare industry and developed a strong understanding of client requirements.
+
+As a computer science student, I have always been passionate about developing software solutions and applying logic to interact with databases. I thrive in collaborative team environments and possess excellent problem-solving and communication skills. My ability to work independently and take ownership of projects has allowed me to contribute effectively to teams and deliver successful results.
+
+I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest industry trends. I am excited to leverage my technical expertise and contribute to meaningful projects that make a positive impact on society.
+
+Feel free to connect with me through email (dipeshshrestha0314@gmail.com) or on LinkedIn (http://linkedin.com/in/dipesh0314) to explore potential collaborations or discuss exciting opportunities in the software development field.
