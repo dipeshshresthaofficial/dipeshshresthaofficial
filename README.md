@@ -11,7 +11,8 @@
 - 😄 Pronouns: he/him
 
 ## A brief description about myself:
-A dedicated and results-oriented software engineer with a passion for creating innovative solutions. With around 2 years of experience in software development, web and mobile application development, and databases, I have honed my skills in various technologies and frameworks such as JavaScript, React.js, Node.js, Express.js, Java, Spring Boot, MySQL, MongoDB, Microsoft Azure.
+A dedicated and results-oriented software engineer with a passion for creating innovative solutions. 
+With around 2 years of hands-on experience in software development and database management, my expertise lies in the realm of web and mobile application development, API development and testing. Throughout my journey, I have diligently honed my skills in a wide range of technologies and frameworks, including JavaScript, React.js, Node.js, Express.js, Java, Spring Boot, python, MySQL, MongoDB, and Microsoft Azure. These robust foundations have equipped me with the knowledge and versatility necessary to tackle diverse projects and deliver efficient and scalable solutions.
 
 During my career, I have had the opportunity to work on projects involving important concepts like object-oriented design patterns, asynchronous request handling, user authentication and authorization, global state management, REST APIs and optimized database queries. My experience includes collaborating closely with healthcare clients while working at Oracle Cerner, a leading Healthcare IT company, where I gained valuable insights into the US healthcare industry and developed a strong understanding of client requirements.
 
