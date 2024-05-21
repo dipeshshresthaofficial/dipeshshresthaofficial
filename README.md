@@ -3,7 +3,7 @@
 <!--
 **dipeshshresthaofficial/dipeshshresthaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on RLHF web application.
+- 🔭 I’m actively seeking for Full-Time employment opportunities.
 - 🌱 I’m currently learning Spring Boot framework.
 - 👯 I’m looking to collaborate on developing innovative web or mobile applications.
 - 🤔 I’m looking for help with guidance on improving my skills as per industry standard.
