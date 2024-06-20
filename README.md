@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Spring Boot framework.
 - 👯 I’m looking to collaborate on developing innovative web or mobile applications.
 - 🤔 I’m looking for help with guidance on improving my skills as per industry standard.
-- 📫 How to reach me: dipeshshrestha0314@gmail.com
+- 📫 How to reach me: dipeshcodes1@gmail.com
 - 😄 Pronouns: he/him
 
 ## A brief description about myself:
