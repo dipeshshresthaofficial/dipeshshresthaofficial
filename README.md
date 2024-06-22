@@ -20,4 +20,4 @@ As a computer science student, I have always been passionate about developing so
 
 I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest industry trends. I am excited to leverage my technical expertise and contribute to meaningful projects that make a positive impact on society.
 
-Feel free to connect with me through email (dipeshshrestha0314@gmail.com) or on LinkedIn (http://linkedin.com/in/dipesh0314) to explore potential collaborations or discuss exciting opportunities in the software development field.
+Feel free to connect with me through email (dipeshcodes1@gmail.com) or on LinkedIn (http://linkedin.com/in/dipesh0314) to explore potential collaborations or discuss exciting opportunities in the software development field.
